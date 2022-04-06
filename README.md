@@ -1,1 +1,1 @@
-# cassavachat application
+# Android Chat application
